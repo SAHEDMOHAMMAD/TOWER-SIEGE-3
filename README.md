@@ -1,3 +1,2 @@
-# TOWER-SIEGE-3
-# IN THE DAY TIME A GREY GREEN COLOUR WILL SHOW 
-# IN THE NIGHT TIME THE BLACK COLOUR WILL SHOW
+# p5.play-boilerplate
+Boiler plate for p5.play
